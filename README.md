@@ -6,5 +6,4 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQko
 
 ![mi foto](gh.jpg)
 
-Mi nombre es Andres Trias. Ingrese a la facultad en el 2021, tengo 18 años
-Me gusta el futbol y aguante Boca.
+Holaa, me llamo Andres Trias, ingrese a la facu en el 2021 y tengo 18 años. Me encanta el futbol y aguante Boca.
